@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Echo Client ex 2/1.0.0": {
+        "runtime": {
+          "Echo Client ex 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Echo Client ex 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
